@@ -52,3 +52,5 @@ Para fazer essa atividade usamos o Ubuntu 24.04.
 Obs: O tempo para realizar a atividade é de exatamente 60 min.
 
 Deixei o log do meu Terminal, Ele está nomeado como Log do Ubuntu
+
+No index.html temos o HTML do site da loja
