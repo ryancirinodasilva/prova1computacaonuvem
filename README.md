@@ -54,3 +54,5 @@ Obs: O tempo para realizar a atividade é de exatamente 60 min.
 Deixei o log do meu Terminal, Ele está nomeado como Log do Ubuntu
 
 No index.html temos o HTML do site da loja
+ 
+E o arquivo Instrucao tem o arquivo que copiamos da prova, é as mesma presentes no Log do Ubuntu
