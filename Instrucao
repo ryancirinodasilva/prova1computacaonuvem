@@ -1,0 +1,20 @@
+cat > index.html <<'EOF'
+ <!DOCTYPE html>
+ html lang="pt-BR">
+ <head>
+ <meta charset="UTF-8">
+ <title>Loja</title>
+ </head>
+ <body>
+ <h1>Loja no ar</h1>
+ </body>
+ </html>
+ EOF
+
+docker run -d --name loja -p 8081:80 nginx:alpine
+
+docker cp index.html loja:/usr/share/nginx/html/index.html
+
+docker os
+
+curl http://localhost:8081
