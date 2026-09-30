@@ -1,10 +1,12 @@
 # Prova 1 de Computação em Nuvem
+
 Nome: Ryan Cirino Da Silva
+
 RA: c6f7900d066d066b12e0e
 
 ## O que fiz
 
-Executei uma paágina web em um contêiner Docker chamado loja.
+Executei uma página web em um contêiner Docker chamado loja.
 Usei a imagem nginx:alpine e a porta 8081 do ambiente.
 
 ## Verficação do contêiner
