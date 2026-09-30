@@ -38,3 +38,17 @@ A imagem ngix:alpine é uma imagem modelo, o contêiner Loja é a instancia roda
 
 O mapeamento 8081:80 é 8081 -> porta do host, ou seja da minha maquina. Já a 80 é a porta do contêiner. 
 Na pratica eu referencio a porta 8081 do meu host para a porta 80 do contêiner.
+
+
+## Informações adicionais
+
+### Usamos o killer coda para realizar essa atividade segue link:
+https://killercoda.com/
+
+Após entrar faça o login (recomendo o SSO do GitHub)
+Campo Playgrounds; Ubuntu 24.04.
+Para fazer essa atividade usamos o Ubuntu 24.04.
+
+Obs: O tempo para realizar a atividade é de exatamente 60 min.
+
+Deixei o log do meu Terminal, Ele está nomeado como Log do Ubuntu
